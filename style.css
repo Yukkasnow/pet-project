@@ -1,0 +1,163 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.hight-header {
+    list-style-type: none;
+    display: flex;
+    height: 30px;
+    justify-content: space-between;
+    background-color: #c9c9c9;
+    padding-top: 10px;
+}
+
+.header {
+    height: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+.txt {
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: #B08EAD;
+    text-decoration: none;
+}
+
+.profile {
+    padding-right: 30px;
+
+}
+
+.p-first {
+    padding-left: 90px;
+}
+
+.main-menu {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.main {
+    padding-left: 300px;
+}
+
+.cart {
+    padding-left: 250px;
+}
+
+.info-box {
+    width: 100%;
+}
+
+.info {
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 23px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    opacity: 1;
+    position: absolute;
+    top: 260px;
+    left: 350px;
+}
+
+.content-windows {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+
+.about-me {
+    padding-left: 30px;
+
+}
+
+.box-about {
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 23px;
+    text-align: center;
+    opacity: 1;
+    position: absolute;
+    top: 900px;
+    left: 150px;
+}
+
+.box-mag {
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 23px;
+    text-align: center;
+    opacity: 1;
+    position: absolute;
+    top: 900px;
+    left: 600px;
+}
+
+.box-cont {
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 23px;
+    text-align: center;
+    opacity: 1;
+    position: absolute;
+    top: 900px;
+    right: 160px;
+}
+
+.back {
+    width: 1347px;
+}
+
+.item-prev {
+    padding-top: 30px;
+}
+
+.left-part {
+    position: absolute;
+    height: 350px;
+    top: 1060px;
+    left: 500px;
+}
+
+.right-part {
+    position: absolute;
+    height: 330px;
+    top: 1100px;
+    left: 690px;
+}
+
+.catalog-fst-tr {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+
+.catalog-scd-tr {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.candle {
+
+    height: 300px;
+    width: 300px;
+}
